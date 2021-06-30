@@ -2,7 +2,7 @@
 A simple ants simulator using [ggez](https://ggez.rs/) Rust library for GUI.
 The ants will search for food, and when they find it they walk toward home and leaving signs so the others ants can find easily the food.
 
-![ants-simulator][./ants.gif]
+![ants-simulator](./ants.gif)
 
 ## The json file
 The simulator will run base on information (about foods, home the ants location) in a json file:
